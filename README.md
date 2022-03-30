@@ -1,8 +1,8 @@
 # Whack A Mole
 ## Created uSING HTML, CSS & JavaScript
 
-See Tutorial on [https://youtu.be/b20YueeXwZg](YouTube)
+See Tutorial on [YouTube](https://youtu.be/b20YueeXwZg)
 
-[https://0shuvo0.github.io/whack-a-mole/](Play Online)
+[Play Online](https://0shuvo0.github.io/whack-a-mole/)
 
-![assets/preview.png](game preview)
+![game preview](assets/preview.png)
